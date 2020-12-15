@@ -9,6 +9,7 @@ Anne-Laure MEALIER
 08.12.2020
 
 Construit d’après les travaux du psychologue américain Robert Plutchik, la roue des émotions est un modèle des émotions humaines et peut facilement servir à définir des personnages, ainsi que leur évolution dans une trame narrative. Est-il possible d'identifier des émotions dans des phrases narratives issues de communications écrites ?
+
 Livrables
 
 - Notebook résumant votre travail + fichiers python .py décrivant votre Dashboard Dash Attention le Notebook ne doit contenir que du code et/ ou markdown pertinent, toutes les cellules doivent s'exécuter, les graphiques doivent être pertinents. - Ressource heroku - (bonus) Votre application client/serveur
@@ -59,29 +60,4 @@ Travaille en groupe de 5/6 + rôles durée: 7 jours
 Critères de performance
 
 Un dashboard Dash permettra de visualiser et de comparer les performances issues de différents classifiers.
-Compétences visées
-
-    C1. Qualifier les données grâce à des outils d’analyse et de visualisation de données en vue de vérifier leur adéquation avec le projet
-        niveau 1, imiterNon évalué
-        niveau 2, adapterValidé
-
-    niveau 3, transposerNon évalué
-
-C4. Préparer les données disponibles depuis la base de données analytique en vue de leur utilisation par les algorithmes d’intelligence artificielle
-
-    niveau 1, imiterNon évalué
-    niveau 2, adapterValidé
-
-    niveau 3, transposerNon évalué
-
-C5. Concevoir le programme d’intelligence artificielle adapté aux données disponibles afin de répondre aux objectifs fonctionnels du projet, à l’aide des algorithmes, outils et méthodes standards, notamment de machine learning et de deep learning
-
-    niveau 1, imiterNon évalué
-    niveau 2, adapterValidé
-
-    niveau 3, transposerNon évalué
-
-+ 9 compétences
-Soumettre un rendu
-
 
