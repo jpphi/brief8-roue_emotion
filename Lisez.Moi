@@ -5,7 +5,12 @@ brief8_rendu_fich2.jpynb (Ce fichier a été inclu dans le 1, NE PAS LE PRENDRE 
 Contenu du répertoire visu contenant le Dash
 
 le lien heroku:
-https://enigmatic-badlands-04489.herokuapp.com/
+https://enigmatic-badlands-04489.herokuapp.com
+
+Le temps de calcul sur Heroku est TRES long !
+
+Tout les fichiers .py de dash ont été dupliqué dans un sous répertoire fichier_py. ATTENTION IL NE SONT QUE DES COPIES DES FICHIER UTILISEE POUR DASH.
+
 
 Sujet:
 La Roue des Emotions
